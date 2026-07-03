@@ -1,15 +1,1 @@
-{
-  "name": "globo-erp",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "start": "vite --host 0.0.0.0",
-    "dev": "vite --host 0.0.0.0",
-    "build": "mkdir -p dist && cp index.html dist/index.html",
-    "preview": "vite preview --host 0.0.0.0"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "vite": "latest"
-  }
-}
+{"scripts":{"start":"vite --host 0.0.0.0","dev":"vite --host 0.0.0.0","build":"echo 'Static project - no build needed'"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","lucide-react":"latest"},"devDependencies":{}}
